@@ -1,6 +1,6 @@
-# Financial Dashboard - Capstone Project (Work in Progress)
+# Financial Dashboard - For Financial Analysts
 
-This project is a financial dashboard designed to provide users with an intuitive and interactive interface to view financial data. Currently, this is a **work in progress**, and only the frontend has been developed.
+This project is a financial dashboard designed to provide users with an intuitive and interactive interface to view financial data. Curretnly, only the frontend has been developed.
 
 ## Features
 
