@@ -14,11 +14,10 @@ This project is a financial dashboard designed to provide users with an intuitiv
 - **Vite**: Fast and modern development environment.
 - **Material-UI**: For a sleek and responsive UI design.
 - **React Router DOM**: For seamless navigation within the app.
--  Expand sentiment analysis features for more comprehensive insights.
 
 ## Project Status
 
-This project is currently in the **frontend development stage**. Future updates will include:
+Future updates will include:
 - Backend integration for dynamic financial data
 - Search and display functionalities for company details
 - Data visualization enhancements
